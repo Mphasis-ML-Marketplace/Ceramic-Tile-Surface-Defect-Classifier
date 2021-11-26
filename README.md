@@ -10,5 +10,5 @@ Surface defects in ceramic tiles pose aesthetic and structural problems. Classif
 * Mphasis DeepInsights is a cloud-based cognitive computing platform that offers data extraction & predictive analytics capabilities. Need Customized Deep learning and Machine Learning Solutions? Get in Touch!
 
 ## Amazon Marketplace Link
-The product can be found [here](insert link)
+The product can be found [here](https://aws.amazon.com/marketplace/pp/prodview-56dql67zxtjp4)
 
